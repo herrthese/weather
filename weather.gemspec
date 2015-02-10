@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'weather'
-  s.version     = '0.0.22
+  s.version     = '0.0.3'
   s.date        = '2015-02-10'
   s.summary     = "Weather!"
   s.description = "returns the weatherdata from Hamburg"
@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'markus@tse-c.de'
   s.files       = ["lib/weather.rb"]
   s.homepage    =
-      'http://rubygems.org/gems/tbdbbbbasdasd111'
+      'https://github.com/herrthese/weather/blob/master/weather-0.0.3.gem'
   s.license       = 'MIT'
 end
