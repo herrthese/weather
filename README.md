@@ -9,7 +9,7 @@ Client libraries for communicating with <tt>openopenweathermapmap.org</tt>.
 
 OVERVIEW:
 ---------
-This project is a simple API client for interacting with the <tt>openopenweathermapmap.org</tt>.
+This project is a simple API client for interacting with the <tt>openweathermap.org</tt>.
 
 
 DETAILS:
@@ -28,8 +28,7 @@ Include this gem in your code as a require statement.
 
 ### Usage
 
-The following example passes the <tt>update-center.json</tt> file contents from <tt>jenkins-ci.org</tt>.
-And returns all informations from the latest available jenkins-version.
+The following example use the API from <tt>openweathermap.org</tt> to return a <tt>JSON</tt> with the current weatherdata for a given City.
 
 ```ruby
 #input: city, country
