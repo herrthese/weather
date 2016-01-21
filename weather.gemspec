@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
-  s.name        = 'weather'
-  s.version     = '0.0.4'
+  s.name        = 'openweathermap'
+  s.version     = '0.0.5'
   s.date        = '2016-01-21'
-  s.summary     = "Weather!"
+  s.summary     = "OpenWeatherMap!"
   s.description = "returns the weatherdata from Hamburg"
   s.authors     = ["Markus These"]
   s.email       = 'markus@tse-c.de'
-  s.files       = ["lib/weather.rb"]
+  s.files       = ["lib/openweathermap.rb"]
   s.homepage    =
       'https://github.com/herrthese/weather'
   s.license       = 'MIT'
